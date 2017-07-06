@@ -1,0 +1,8 @@
+c:\users\angel\documents\visual studio 2015\Projects\SampleApi\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\SampleApi\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\angel\documents\visual studio 2015\Projects\SampleApi\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\angel\documents\visual studio 2015\Projects\SampleApi\ConsoleApplication1\bin\Debug\Polly.dll
+c:\users\angel\documents\visual studio 2015\Projects\SampleApi\ConsoleApplication1\bin\Debug\Polly.pdb
+c:\users\angel\documents\visual studio 2015\Projects\SampleApi\ConsoleApplication1\bin\Debug\Polly.xml
+c:\users\angel\documents\visual studio 2015\Projects\SampleApi\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\angel\documents\visual studio 2015\Projects\SampleApi\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
